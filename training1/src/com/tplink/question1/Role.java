@@ -13,8 +13,6 @@ public abstract class Role {
         this.gender = gender;
 
         // test
-        // xiugai
-        // xiugai
     }
 
 
