@@ -11,6 +11,8 @@ public abstract class Role {
 
         this.name = name;
         this.gender = gender;
+
+        // test
     }
 
 
